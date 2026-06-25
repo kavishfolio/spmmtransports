@@ -50,7 +50,7 @@ const SEED_DATA = {
     { id:"ORD003", customerId:"C001", customerName:"Rajan Kumar",  phone:"9876543210", pickupLocation:"Chennai",    dropLocation:"Madurai",    date:"2025-06-20", goodsType:"FMCG Goods",  vehicleType:"Mini Truck",     weight:"1 Ton",  status:"Confirmed",  driver:"",          vehicle:"",           amount:0,     notes:"",                createdAt:"2025-06-09" },
   ],
   drivers: [
-    { id:"D001", name:"Kamalash",  phone:"9944112233", license:"TN0120200012345", available:true  },
+    { id:"D001", name:"Nanda",  phone:"9944112233", license:"TN0120200012345", available:true  },
     { id:"D002", name:"Guna Segaran",   phone:"9944112244", license:"TN0120190067890", available:true },
     { id:"D003", name:"Anand",    phone:"9944112255", license:"TN0120210099001", available:true  },
     { id:"D004", name:"Karthik",  phone:"9944112266", license:"TN0120220011223", available:true  },
